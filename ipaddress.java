@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class IpAddressGenerator {
+public class Ip {
     public static void main(String[] args) {
         Random random = new Random();
         for (int i = 0; i < 10; i++) {
